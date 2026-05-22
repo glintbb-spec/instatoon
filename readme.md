@@ -9,10 +9,10 @@
 
 | 파일 | 역할 |
 |---|---|
-| [`인스타툰 회차별 정리.md`](./인스타툰%20회차별%20정리.md) | 시즌 1의 45화 전체 회차 구조 요약 |
-| [`인스타툰 회차별 정리 (1).md`](./인스타툰%20회차별%20정리%20(1).md) | 원문에 가까운 긴 서사 메모 |
-| [`인스타툰 회차별 정리 (2).md`](./인스타툰%20회차별%20정리%20(2).md) | 작품 기획서, 톤 가이드, 작업 기준 |
-| [`INSTATOON_REFERENCE.pdf`](./INSTATOON_REFERENCE.pdf) | 이미지 기반 참고 자료 |
+| [`season1_episode_outline.md`](./season1_episode_outline.md) | 시즌 1의 45화 전체 회차 구조 요약 |
+| [`season1_raw_notes.md`](./season1_raw_notes.md) | 원문에 가까운 긴 서사 메모 |
+| [`season1_project_brief.md`](./season1_project_brief.md) | 작품 기획서, 톤 가이드, 작업 기준 |
+| [`instatoon_reference.pdf`](./instatoon_reference.pdf) | 이미지 기반 참고 자료 |
 
 ## 작품 개요
 
@@ -25,25 +25,25 @@
 
 ## 작업 기준
 
-이 저장소의 기준 문서는 `인스타툰 회차별 정리 (2).md`입니다.  
+이 저장소의 기준 문서는 `season1_project_brief.md`입니다.  
 새 회차를 만들거나 다른 AI 도구에 작업을 넘길 때는 이 파일의 톤 가이드와 금지 사항을 우선 기준으로 삼습니다.
 
-## 파일명 정리 권장안
+## 파일명 상태
 
-지금 파일명도 사용할 수 있지만, 장기적으로는 공백·괄호·중복 제목을 줄이는 편이 좋습니다.
+현재 권장 파일명 기준으로 정리된 상태입니다.
 
-| 현재 파일명 | 권장 파일명 |
+| 파일명 | 상태 |
 |---|---|
-| `인스타툰 회차별 정리.md` | `season1_episode_outline.md` |
-| `인스타툰 회차별 정리 (1).md` | `season1_raw_notes.md` |
-| `인스타툰 회차별 정리 (2).md` | `season1_project_brief.md` |
-| `INSTATOON_REFERENCE.pdf` | `instatoon_reference.pdf` |
+| `season1_episode_outline.md` | 사용 |
+| `season1_raw_notes.md` | 사용 |
+| `season1_project_brief.md` | 사용 |
+| `instatoon_reference.pdf` | 사용 권장 |
 
-파일명을 바꾸면 이 README의 링크도 함께 수정해야 합니다.
+현재 PDF 파일명이 `instatoon_reference.pdf.pdf`라면 `instatoon_reference.pdf`로 한 번 더 수정하는 것을 권장합니다.
 
 ## 다음 작업
 
-1. 파일명 정리 여부 결정
+1. PDF 파일명을 `instatoon_reference.pdf`로 정리
 2. 1화 원고/슬라이드 구성 확정
 3. 캐릭터 시트 제작
 4. 인스타그램 캐러셀 규격 확정
